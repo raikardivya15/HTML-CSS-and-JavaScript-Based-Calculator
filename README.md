@@ -3,7 +3,7 @@ A basic calculator built with HTML, CSS, and JavaScript for simple arithmetic op
 ## 🚀 Features
 - Basic arithmetic operations (`+`, `-`, `*`, `/`)
 - Decimal point support
-- **AC (All Clear)** and **DE (Delete Last Entry)** functionality
+- **AC (All Clear)** and **C (Clear Last Entry)** functionality
 - Responsive and user-friendly UI
 
 ## 📸 Screenshot
