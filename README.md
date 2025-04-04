@@ -6,7 +6,6 @@ A basic calculator built with HTML, CSS, and JavaScript for simple arithmetic op
 - **AC (All Clear)** and **DE (Delete Last Entry)** functionality
 - Responsive and user-friendly UI
 
-
 ## 📸 Screenshot
 ![Calculator Screenshot](images/Screenshot.png)
 
