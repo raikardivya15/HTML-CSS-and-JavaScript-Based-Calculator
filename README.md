@@ -7,7 +7,7 @@ A basic calculator built with HTML, CSS, and JavaScript for simple arithmetic op
 - Responsive and user-friendly UI
 
 ## 📸 Screenshot
-![Calculator Screenshot](images/Screenshot .png)
+![Calculator Screenshot](images/screenshot.png)
 
 ## 🛠️ Technologies Used
 - **HTML** for structuring the calculator layout.
